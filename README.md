@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Kira-Legacy
-- 👀 I’m interested in Cyber.
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me ...email me at Kirubelwinner@gmail.com or DM on telegram @Brightlife23
+- 📫 How to reach me ...email me at Kirubelwinner@gmail.com or DM on telegram @Brightlife23.
 
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
