@@ -6,7 +6,7 @@
 - 📫 How to reach me ...email me at Kirubelwinner@gmail.com or DM on telegram @Brightlife23. 👨🏾‍💻
 - 💻 Currently spending time on computers to improve my skills on Technology.
 # Languages
-[![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML5_Logo.png)](https://www.w3schools.com/html/)
+[![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png)](https://www.w3schools.com/html/)
   
 - ![HTML Image](https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML__.png)
 <!---
