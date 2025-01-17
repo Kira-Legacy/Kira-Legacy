@@ -1,4 +1,4 @@
-# ✍🏾Started being active on Github
+# ✍🏾Started working on Github
 
 - 👋🏾 Hi, I’m @Kira-Legacy
 - 🌱 I’m currently learning Frontend web development.
