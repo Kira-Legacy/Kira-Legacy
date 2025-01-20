@@ -1,5 +1,5 @@
 # ✍🏾Started working on Github
-- 👋🏾 Hi, I’m @Kira-Legacy
+- 👋🏾 Hi, I’m Kirubel Eshetu.
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me ...email me at Kirubelwinner@gmail.com or DM on telegram @Brightlife23. 👨🏾‍💻
