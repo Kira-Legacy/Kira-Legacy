@@ -5,7 +5,8 @@
 - 💻 Currently spending time on computers to improve my skills on Technology.
 - 📫 Ways to reach me:
 
-     -> Email: Kirubelwinner@gmail.com
+     <a href = "mailto: emailkirubelwinner@gmail.com"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/email.png" alt =  "Email Icon" style="width: 50px; height: 50px;"></a>
+
   
      -> Linkedln: https://www.linkedin.com/in/kirubel-eshetu-6b4551326
   
