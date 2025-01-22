@@ -5,9 +5,7 @@
 - 💻 Currently spending time on computers to improve my skills on Technology.
 - 📫 Ways to reach me:
 
-     <a href = "mailto: emailkirubelwinner@gmail.com"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/email.png" alt =  "Email Icon" style="width: 50px; height: 50px;"></a> <a href ="https://www.linkedin.com/in/kirubel-eshetu-6b4551326"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;"></a> 
-     
-     -> Telegram: https://t.me/BrightLife23 👨🏾‍💻
+     <a href = "mailto: emailkirubelwinner@gmail.com"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/email.png" alt =  "Email Icon" style="width: 50px; height: 50px;"></a>       <a href ="https://www.linkedin.com/in/kirubel-eshetu-6b4551326"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;"></a> <a href ="https://t.me/BrightLife23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a>
   
      -> Facebook: https://facebook.com/Kirubel23
   
