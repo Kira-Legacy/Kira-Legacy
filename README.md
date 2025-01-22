@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
 - 💻 Currently spending time on computers to improve my skills on Technology.
+<img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam55ZDdsaDg1N2J2ZGZ1dncxem0wZW02bmxvYjZla3E0Y2JxZ2JyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m6pvmOSXuTEPaKFWBz/giphy.gif" alt="Coding">
 
 # 📫 Ways to reach me:
 
