@@ -26,7 +26,9 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&theme=radical)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kira-Legacy&theme=radical)
+![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
 
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
