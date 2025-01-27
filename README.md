@@ -14,7 +14,7 @@
 <a href = "https://facebook.com/Kirubel23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Facebook.png" alt="Facebook icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://www.instagram.com/young_kira23?igsh=MXJtcHJzMXQ0mUydA=="><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
 
-[![GitHub Streak](https://github-readme-streak.com/?user=Kira-Legacy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?Kira-Legacy=DenverCoder1)](https://git.io/streak-stats)
 [![GitHub Stats](https://github-readme-stats.com/api?username=-Kira-Legacy&show_icons=true&count_private=true)](https://github-readme-stats.com/api?Kira-Legacy=username&show_icons=true&count_private=true)
 
 
