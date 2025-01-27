@@ -19,7 +19,10 @@
 <a href="https://www.w3schools.com/Css/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 50px; height: 50px;"></a>
 
 # 📈 Stats for my GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy)
+
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy)
 
