@@ -28,7 +28,7 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Kira-Legacy&theme=radical)](https://git.io/streak-stats) --->
 
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
