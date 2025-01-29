@@ -7,6 +7,7 @@
 <div align="center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" style="width: 800px;">
 </div>
+
 # 📫 Ways to reach me:
 
 <a href = "mailto: emailkirubelwinner@gmail.com"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/email.png" alt =  "Email Icon" style="width: 50px; height: 50px;"></a> 
