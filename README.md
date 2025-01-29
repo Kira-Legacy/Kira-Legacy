@@ -38,8 +38,9 @@
 
 # Support
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_me_a_Coffee-Support-yellow)](https://buymeacoffee.com/kiralegacy)
-
+<div align = "center">
+<a href="https://buymeacoffee.com/kiralegacy"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg" alt= "Buy me a coffee" style="width: 200px; height: 200px;"></a>
+</div>
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
