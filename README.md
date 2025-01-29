@@ -1,5 +1,6 @@
 # ✍🏾 Started working on Github
 - 👋🏾 Hi, I’m Kirubel Eshetu.
+- ✨ I based in Addis Abeba, Ethiopia.
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
 - 💻 Currently spending time on computers to improve my skills as a developer.
