@@ -3,9 +3,10 @@
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
 - 💻 Currently spending time on computers to improve my skills on Technology.
-  
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" style="width: 800px;">
 
+<div align="center">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" style="width: 800px;">
+</div>
 # 📫 Ways to reach me:
 
 <a href = "mailto: emailkirubelwinner@gmail.com"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/email.png" alt =  "Email Icon" style="width: 50px; height: 50px;"></a> 
@@ -20,15 +21,20 @@
 
 # 📈 Stats for my GitHub
 
+<div align="center">
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&layout=pie&langs=10&theme=tokyonight" />
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
-<!--- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Kira-Legacy&theme=radical)](https://git.io/streak-stats) --->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
