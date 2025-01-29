@@ -22,13 +22,12 @@
 # 📈 Stats for my GitHub
 
 <div align="center">
+  
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&layout=pie&langs=10&theme=tokyonight" />
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
