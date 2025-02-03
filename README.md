@@ -5,9 +5,7 @@
 - 💞️ I’m looking to collaborate on web development.
 - 💻 Currently spending time on computers to improve my skills as a developer.
 
-<div align="center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" style="width: 800px;">
-</div>
+
 
 # 📫 Ways to reach me:
 
