@@ -6,6 +6,10 @@
 - 💻 Currently spending time on computers to improve my skills as a developer.
 
 <div align = "center">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "Gospel" width = "765px" height = "400px">
+</div>
+
+<div align = "center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="765px" height="400px">
 </div>
 
