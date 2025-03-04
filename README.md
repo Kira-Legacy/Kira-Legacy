@@ -3,15 +3,14 @@
 - ✨ I am based in Addis Abeba, Ethiopia.
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
-
-<div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "Gospel" width = "765px" height = "400px">
-</div>
-
 - 💻 Currently spending time on computers to improve my skills as a developer.
   
 <div align = "center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="765px" height="400px">
+</div>
+
+<div align = "center">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "Gospel" width = "765px" height = "400px">
 </div>
 
 # 📫 Ways to reach me:
