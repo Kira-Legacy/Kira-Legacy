@@ -21,7 +21,7 @@
 <a href = "https://facebook.com/Kirubel23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Facebook.png" alt="Facebook icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://www.instagram.com/young_kira23?igsh=MXJtcHJzMXQ0mUydA=="><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
 <a href ="https://wa.me/251939806607"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/whatsapp_logo.png" alt="WhatsApp icon" style="width: 50px; height: 50px;"></a>
-<a href ="www.twitter.com/KirubelLegacy23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
+<a href ="https://www.twitter.com/KirubelLegacy23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
 
 # 👨‍💻 Languages (So far)
 <a href="https://www.w3schools.com/html/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 50px; height: 50px;"></a> 
