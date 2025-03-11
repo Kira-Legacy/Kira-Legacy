@@ -39,6 +39,8 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy" />
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
 
 </div>
