@@ -30,8 +30,7 @@
 # 📈 Stats for my GitHub
 
 <div align="center">
-  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy.Kira-Legacy" alt="visitors">
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
@@ -41,8 +40,7 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy.Kira-Legacy" alt="visitors">
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
 </div>
 
 # 🙏🏾 Support 
