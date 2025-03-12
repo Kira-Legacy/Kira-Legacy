@@ -5,7 +5,7 @@
 
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-- 👋🏾 Hi, I’m Kirubel Eshetu.
+- ![](https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif) Hi, I’m Kirubel Eshetu.
 - ✨ I am based in Addis Abeba, Ethiopia.
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
