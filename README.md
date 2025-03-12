@@ -3,9 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=100&duration=4000&lines=Hi+There+👋🏾+I'm+Kirubel+Eshetu+Tefera;Emerging;Designer+and+Developer"/>
 </h1>
 
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-- ![](https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif) Hi, I’m Kirubel Eshetu.
+- <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif" alt="Black waving hand"> Hi, I’m Kirubel Eshetu.
 - ✨ I am based in Addis Abeba, Ethiopia.
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
