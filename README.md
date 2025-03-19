@@ -5,10 +5,10 @@
 </h1>
 
 - <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif" alt="Black waving hand" width="20px" height="20px">  Hi, I’m Kirubel Eshetu Tefera.
-- ✨ I am based in Addis Ababa, Ethiopia.
-- 🌱 I’m currently learning Frontend web development.
-- 💞️ I’m looking to collaborate on web development.
-- 💻 Currently spending time on computers to improve my skills as a developer.
+✨ I am based in Addis Ababa, Ethiopia.
+🌱 I’m currently learning Frontend web development.
+💞️ I’m looking to collaborate on web development.
+💻 Currently spending time on computers to improve my skills as a developer.
   
 <div align = "center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="765px" height="420px">
