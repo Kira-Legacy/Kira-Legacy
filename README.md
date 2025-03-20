@@ -21,7 +21,9 @@
 # 📫 Ways to reach me:
 
 <a href = "mailto: emailkirubelwinner@gmail.com"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/email.png" alt =  "Email icon" style="width: 50px; height: 50px;"></a> 
+
 <a href ="https://www.linkedin.com/in/kirubel-eshetu-6b4551326"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Linkedln.png" alt = "LinkedIn icon" style="width: 45px; height: 45px;"></a> 
+
 <a href ="https://t.me/BrightLife23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Telegram%20icon.png" alt = "Telegram icon" style="width: 50px; height: 50px;"></a> 
 <a href = "https://facebook.com/Kirubel23"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Facebook.png" alt="Facebook icon" style="width: 50px; height: 50px;"></a> 
 <a href ="https://www.instagram.com/young_kira23?igsh=MXJtcHJzMXQ0mUydA=="><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Instagram.png" alt="Instagram icon" style="width: 50px; height: 50px;"></a>
@@ -31,6 +33,7 @@
 # 👨‍💻 Languages (So far)
 <a href="https://www.w3schools.com/html/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 50px; height: 50px;"></a> 
 <a href="https://www.w3schools.com/Css/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 50px; height: 50px;"></a>
+<a href="https://www.w3schools.com/js/"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 50px; height: 50px;"></a>
 
 # 📈 Stats for my GitHub
 
