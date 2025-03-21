@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Frontend web development.
 - 💞️ I’m looking to collaborate on web development.
 - 💻 Currently spending time on computers to improve my skills as a developer.
-- ⚡️ Fun fact about me: I am very much into the military world. 🪖🎖
+- ⚡️ Fun fact about me: I am very much into the military world. 🫡🎖
   
 <div align = "center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="765px" height="420px">
