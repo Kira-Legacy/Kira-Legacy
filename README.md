@@ -43,6 +43,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=radical)
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
