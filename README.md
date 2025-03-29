@@ -64,10 +64,12 @@
 
 <div style="display : flex; flex-direction : column; gap : 7px"><b>Top Repositories</b> 
 
-<div width="100%" align="center"><a href="https://github.com/Kira-Legacy/tic_tac_toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Jimma_Zone_Prisoner_Information_System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fira0l/Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/fira0l/Personal-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Personal-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Kira-Legacy/Jobapp-with-django" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Jobapp-with-django&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Kira-Legacy/tic_tac_toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Jimma_Zone_Prisoner_Information_System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a>
+<a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=CV&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Kira-Legacy/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 </div>
-</div>
+
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
