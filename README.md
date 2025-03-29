@@ -61,7 +61,7 @@
   
 <div width="100%" align="center"><a href="https://github.com/Kira-Legacy/tic_tac_toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Jimma_Zone_Prisoner_Information_System&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en"/></a>
 <a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=CV&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
+<br>
 <div width="100%" align="center"><a href="https://github.com/Kira-Legacy/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 <a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 </div>
