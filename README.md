@@ -54,6 +54,14 @@
     gap: 5px;
 "><a align= "center" href="https://github.com/Kira-Legacy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<div style="
+display : flex;
+flex-direction : column;
+gap : 7px
+"><b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Kira-Legacy/tic_tac_toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=tic_tac_toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/fira0l/Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
