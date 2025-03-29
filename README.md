@@ -41,7 +41,7 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy.Kira-Legacy" alt="visitors">
 
-<a width="100%" href="https://www.github.com/Kira-Legacy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira-Legacy&bg_color=000000&color=ff355e&line=00ffff&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kira-Legacy" /></a>
+<a width="100%" href="https://www.github.com/Kira-Legacy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira-Legacy&bg_color=000000&color=fe428e&line=6da0a1&point=ffffff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kira-Legacy" /></a>
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
