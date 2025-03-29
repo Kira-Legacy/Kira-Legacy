@@ -39,6 +39,8 @@
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy.Kira-Legacy" alt="visitors">
+
+<a width="100%" href="http://www.github.com/Kira-Legacy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fira0l&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
