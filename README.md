@@ -40,22 +40,19 @@
 
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy.Kira-Legacy" alt="visitors">
-
-  <div style="
-    width: 75%;
-    display: flex;
-    flex-direction: row;
-    gap: 5px;
-">
-<a align= "center" href="https://github.com/fira0l" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
     
-<a width="100%" href="https://www.github.com/Kira-Legacy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira-Legacy&bg_color=000000&color=fe428e&line=6da0a1&point=ffffff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kira-Legacy" /></a>
+<a width="100%" href="https://www.github.com/Kira-Legacy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira-Legacy&bg_color=141321&color=fe428e&line=6da0a1&point=ffffff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kira-Legacy" /></a>
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&theme=radical)
+ <div style="
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+"><a align= "center" href="https://github.com/fira0l" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
