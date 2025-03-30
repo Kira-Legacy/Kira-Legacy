@@ -1,6 +1,4 @@
-
 # 😊 Welcome 
-
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=100&duration=4000&lines=Hi+There+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡"/>
@@ -19,7 +17,7 @@
 </div>
 <br>
 <div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "Gospel" width = "765px" height = "420px">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "John 14:6" width = "765px" height = "420px">
 </div>
 
 # 📫 Ways to reach me:
