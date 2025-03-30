@@ -65,7 +65,9 @@
 <a href="https://github.com/Kira-Legacy" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div></div>
 <br>
 
-<div>![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)]</div>
+<div>
+  [![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)]
+</div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
 
