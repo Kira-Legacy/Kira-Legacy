@@ -66,7 +66,7 @@
 <br>
 
 <div>
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)]
+  ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
