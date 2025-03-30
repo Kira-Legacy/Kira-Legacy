@@ -68,7 +68,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
 
-# 🙏🏾 Support 
+#🙏🏾 Support 
 
 <a href="https://buymeacoffee.com/kiralegacy">
   <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg?raw=true" alt="Buy me a coffee" style="width: 200px; height: 200px; border: none; display:block;">
