@@ -1,4 +1,6 @@
+<div align="center">
 # 😊 Welcome 
+</div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=900&height=100&duration=4000&lines=Hi+There+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡"/>
