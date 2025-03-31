@@ -1,7 +1,7 @@
 # 😊 Welcome 
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=9500&height=11000&duration=4000&lines=Hi+There+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=500&center=true&vCenter=true&width=9500&height=1100&duration=4000&lines=Hi+There+👋🏾;I'm+Kirubel+Eshetu+Tefera!;An+Emerging...;Designer+and+Developer+🫡"/>
 </h1>
 
 - <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif" alt="Black waving hand" width="20px" height="20px">  Hi, I’m Kirubel Eshetu Tefera.
