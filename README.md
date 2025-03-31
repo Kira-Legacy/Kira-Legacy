@@ -65,7 +65,7 @@
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)[(https://git.io/streak-stats)]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
 
 
 # 🙏🏾 Support 
