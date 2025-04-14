@@ -13,7 +13,7 @@
 - 🤝🏾 Let's Collab!
 
 <div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="765px" height="420px">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="420px">
 </div>
 <br>
 <div align = "center">
