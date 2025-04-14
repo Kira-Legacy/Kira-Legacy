@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "John 14:6" width = "765px" height = "420px">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "John 14:6" width = "100%" height = "420px">
 </div>
 
 # 📫 Ways to reach me:
