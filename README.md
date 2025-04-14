@@ -13,11 +13,11 @@
 - 🤝🏾 Let's Collab!
 
 <div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="420px">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px">
 </div>
 <br>
 <div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "John 14:6" width = "100%" height = "420px">
+  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Gospel.gif" alt = "John 14:6" width = "100%" height = "500px">
 </div>
 
 # 📫 Ways to reach me:
