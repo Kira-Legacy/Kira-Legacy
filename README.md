@@ -11,6 +11,7 @@
 - 💻 Currently spending time on computers to improve my skills as a developer.
 - ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
 - 🤝🏾 Let's Collab!
+- Check out the Mozilla developer documentation <a href ="https://developer.mozilla.org/en-US/"> here </a>
 
 <div align = "center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px">
@@ -83,7 +84,6 @@
 <div align = "center">
  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Young_Ethiopian_Developer.jfif" alt = "Young Ethiopian Programmer" width = "100%" height = "650px">
 </div>
-- Check out the Mozilla developer documentation <a href ="https://developer.mozilla.org/en-US/"> here </a>
 
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
