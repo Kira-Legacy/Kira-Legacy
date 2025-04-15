@@ -38,7 +38,7 @@
 
 # 📈 Stats for my GitHub
 
-<div>
+<div align="center">
 <img src="https://camo.githubusercontent.com/7fed1cca5d6d90fc2076e14d1a4bc3dd9f802cf65c0907d3d1188dc5867d4b25/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f6d656469612f39653530353564613265653663383939616162393430336365623764306463332e676966" alt="Coding day and Night">
 </div>
 <br>
@@ -50,6 +50,8 @@
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
+
+</div>
 
 <div style="width: 100%; display: flex; flex-direction: row; gap: 5px;"><a align= "center" href="https://github.com/Kira-Legacy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
