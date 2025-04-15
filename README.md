@@ -80,6 +80,9 @@
 
 # ✅ Help
  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif" alt="Black waving hand" width="20px" height="20px"> Hey there programmer, are you stuck with a programming concept and would like to get help?
+<div align = "center">
+ <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Young_Ethiopian_Developer.jfif" alt = "Young Ethiopian Programmer">
+</div>
 - Check out the Mozilla developer documentation <a href ="https://developer.mozilla.org/en-US/"> here </a>
 
 <!---
