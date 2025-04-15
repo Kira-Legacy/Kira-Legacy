@@ -74,11 +74,13 @@
 
 # 🙏🏾 Support 
 
+<div align="center"> 
 <a href="https://buymeacoffee.com/kiralegacy">
   <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg?raw=true" alt="Buy me a coffee" style="width: 200px; height: 200px; border: none; display:block;">
   <br>
   <p>Buy me a coffee</p>
 </a>
+</div>
 
 # ✅ Help
 Are you stuck with a programming concept and would like to get help?
