@@ -64,11 +64,13 @@
 <div width="100%" align="center">
 <a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=CV&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
 <a href="https://github.com/Kira-Legacy" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-</div></div>
+</div>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)
+
+</div>
 
 # 🙏🏾 Support 
 
