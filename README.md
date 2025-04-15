@@ -84,8 +84,7 @@
  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Young_Ethiopian_Developer.jfif" alt = "Young Ethiopian Programmer" width = "100%" height = "650px">
 </div>
 
-
-- Check out the Mozilla developer documentation <a href ="https://developer.mozilla.org/en-US/"> here </a>
+- Check out the Mozilla developer documentation <a href ="https://developer.mozilla.org/en-US/" style = "text-decoration: none;"> here </a>
 <!---
 Kira-Legacy/Kira-Legacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
