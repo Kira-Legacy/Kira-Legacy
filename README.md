@@ -71,7 +71,7 @@
 
 <div align="center"> 
 <a href="https://buymeacoffee.com/kiralegacy">
-  <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg?raw=true" alt="Buy me a coffee" style="width: 100%; height: 800px; border: none; display:block;">
+  <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg?raw=true" alt="Buy me a coffee" style="width: 100%; height: 650px; border: none; display:block;">
   <br>
   <p>Buy me a coffee</p>
 </a>
