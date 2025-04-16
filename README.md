@@ -6,7 +6,7 @@
 
 - <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/waving-hand_medium-skin-tone_1f44b-1f3fd_1f3fd.gif" alt="Black waving hand" width="20px" height="20px">  Hi, I’m Kirubel Eshetu Tefera.
 - ✨ I am based in Addis Ababa, Ethiopia.
-- 🌱 Currently learning BootStrap.
+- 🌱 Currently learning Bootstrap.
 - 💞️ Looking to collaborate on web devlopment.
 - 💻 Currently spending time on computers to improve my skills as a developer.
 - ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
