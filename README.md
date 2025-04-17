@@ -34,7 +34,7 @@
 
 <a href="https://www.w3schools.com/html/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 50px; height: 50px;"></a> 
 <a href="https://www.w3schools.com/Css/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 50px; height: 50px;"></a>
-<a href="https://getbootstrap.com/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 50px; height: 60px;"></a>
+<a href="https://getbootstrap.com/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 60px; height: 50px;"></a>
 <a href="https://www.w3schools.com/js/"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 50px; height: 50px;"></a>
 
 # 📈 Stats for my GitHub
