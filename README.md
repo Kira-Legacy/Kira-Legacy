@@ -70,7 +70,7 @@
 
 # 🙏🏾 Support 
 
-<div align="center"> 
+<div align="start"> 
 <a href="https://buymeacoffee.com/kiralegacy">
   <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg?raw=true" alt="Buy me a coffee" style="width: 70%; height: 600px; border: none; display:block;">
   <br>
