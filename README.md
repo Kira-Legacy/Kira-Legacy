@@ -54,7 +54,7 @@
 
 </div>
 
-<div align="center" style="width: 100%; display: flex; flex-direction: row; gap: 5px;"><a align= "center" href="https://github.com/Kira-Legacy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></div>
+<div align="center" style="width: 100%; display: flex; flex-direction: row; gap: 5px;"><a align= "center" href="https://github.com/Kira-Legacy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical)
 
