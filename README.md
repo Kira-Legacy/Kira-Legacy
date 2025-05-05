@@ -63,7 +63,9 @@
 <div width="100%" align="center"><p style ="color: fe428e">Top Repositories</p>
 <a href="https://github.com/Kira-Legacy/Portfolio" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Portfolio&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
 <a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=CV&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-<a href="https://github.com/Kira-Legacy" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a></div>
+  
+<a href="https://github.com/Kira-Legacy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
+<a href = "Tic-Tac-Toe-Web-Application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Tic-Tac-Toe-Web-Application&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></div>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats) </div>
 
