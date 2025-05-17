@@ -39,6 +39,7 @@
 <a href="https://www.w3schools.com/js/"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 50px; height: 50px;"></a>
 <a href="https://jquery.com/"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/jQuery%20logo.jpg" alt="jQuery Logo" style="width: 150px; height: 50px;"></a>
 
+
 # 📈 Stats for my GitHub
 
 <div align="center">
