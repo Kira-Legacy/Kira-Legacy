@@ -8,9 +8,10 @@
 - ✨ I am based in Addis Ababa, Ethiopia.
 - 🌱 Currently learning React.
 - 💞️ Looking to collaborate on web development.
-- 💻 Currently spending time on computers to improve my skills as a developer. 
-- ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
+- 💻 Currently spending time on computers to improve my skills as a developer.
 - 🤝🏾 Let's Collab!
+- I would also love it if you invite me to typing competitions. 🤼🏾🤼🏾
+- ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
 - 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. Please don't mind if you see silly codes all over my GitHub, <br> 🤚🏾 or I discuss with you on very basic issues. <br> 🤞🏾 I am trying my very best everyday, to be better than my yesterday." 🍀
 
 <div align = "center">
