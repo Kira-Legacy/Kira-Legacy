@@ -41,7 +41,7 @@
 <a href="https://jquery.com/"><img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jQuery Logo" style="width: 130px; height: 50px;" /></a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70px" height="70px"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/express%20logo.png" alt="express logo" style="width: 150px; height: 60px" /></a>
-<a href = "https://react.dev/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/React_logo.png" alt = "React Logo" style="width: 60px; height: 60px" /></a> 
+<a href = "https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "React Logo" style="width: 70px; height: 60px" /></a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="PostMan app" style="width: 60px; height: 60px" /></a>
 
 # 📈 Stats for my GitHub
