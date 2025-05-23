@@ -38,10 +38,9 @@
 <a href="https://www.w3schools.com/Css/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 50px; height: 50px;"></a>
 <a href="https://getbootstrap.com/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 63px; height: 53px;"></a>
 <a href="https://www.w3schools.com/js/"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 50px; height: 50px;" /></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70px" height="70px "/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="75px" height="75px"/> </a>
-
-
+<a href=""><img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jQuery Logo" style="width=70px; height=70px;" /></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70px" height="70px"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/express%20logo.png" alt="express logo" width="150px" height="50px" /> </a>
 
 # 📈 Stats for my GitHub
 
