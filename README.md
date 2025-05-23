@@ -40,9 +40,8 @@
 <a href="https://www.w3schools.com/js/"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 50px; height: 50px;" /></a>
 <a href="https://jquery.com/"><img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jQuery Logo" style="width: 130px; height: 50px;" /></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70px" height="70px"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/express%20logo.png" alt="express logo" width="150px" height="50px" /> </a>
-
-<a href = "https://react.dev/" target="_blank"><img src="http://www.w3.org/2000/svg" alt = "React Logo"></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/express%20logo.png" alt="express logo" width="150px" height="55px" /></a>
+<a href = "https://react.dev/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/React_logo.png" alt = "React Logo" style="width: 60px; height: 55px"></a>
 
 # 📈 Stats for my GitHub
 
