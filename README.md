@@ -32,7 +32,7 @@
 <a href ="https://wa.me/251939806607" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/whatsapp_logo.png" alt="WhatsApp icon" style="width: 50px; height: 50px;"></a>
 <a href ="https://www.twitter.com/KirubelLegacy23" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/X.jpeg" alt="X logo" style="width: 50px; height: 50px;"></a>
 
-# 👨‍💻 Languages, Framworks & Tools (Learnt so far)
+# 👨‍💻 Languages, Frameworks & Tools (Learnt so far)
 
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 60px; height: 60px;"></a> 
 <a href="https://www.w3schools.com/Css/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 60px; height: 60px;"></a>
