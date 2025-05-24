@@ -36,7 +36,7 @@
 
 <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 60px; height: 60px;"></a> 
 <a href="https://www.w3schools.com/Css/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 60px; height: 60px;"></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 63px; height: 60px;"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 75px; height: 60px;"></a>
 <a href="https://www.w3schools.com/js/" target="_blank"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 60px; height: 60px;" /></a>
 <a href="https://jquery.com/" target="_blank"><img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jQuery Logo" style="width: 160px; height: 60px;" /></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style = "width: 70px; height: 70px "/> </a>
