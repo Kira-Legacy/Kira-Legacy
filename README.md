@@ -34,13 +34,13 @@
 
 # 👨‍💻 Languages, Framworks & Tools (Learnt so far)
 
-<a href="https://www.w3schools.com/html/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 50px; height: 55px;"></a> 
-<a href="https://www.w3schools.com/Css/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 50px; height: 55px;"></a>
-<a href="https://getbootstrap.com/"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 63px; height: 55px;"></a>
-<a href="https://www.w3schools.com/js/"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 55px; height: 55px;" /></a>
-<a href="https://jquery.com/"><img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jQuery Logo" style="width: 130px; height: 55px;" /></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style = "width: 70px; height: 70px "/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/express%20logo.png" alt="express logo" style="width: 150px; height: 55px" /></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/HTML_logo.png" alt="HTML Logo" style="width: 50px; height: 55px;"></a> 
+<a href="https://www.w3schools.com/Css/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/CSS_logo.png" alt="CSS logo" style="width: 50px; height: 55px;"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Bootstrap-logo-edited.png" alt="Bootstrap-logo" style="width: 63px; height: 55px;"></a>
+<a href="https://www.w3schools.com/js/" target="_blank"><img src ="https://github.com/Kira-Legacy/Image_Repo/blob/main/JavaScript-logo.png" alt="JavaScript Logo" style="width: 55px; height: 55px;" /></a>
+<a href="https://jquery.com/" target="_blank"><img src = "https://jquery.com/wp-content/themes/jquery/images/logo-jquery@2x.png" alt="jQuery Logo" style="width: 130px; height: 55px;" /></a>
+<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" style = "width: 70px; height: 70px "/> </a>
+<a href="https://expressjs.com" target="_blank"><img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/express%20logo.png" alt="express logo" style="width: 150px; height: 55px" /></a>
 <a href = "https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "React Logo" style="width: 70px; height: 55px" /></a> 
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="PostMan app" style="width: 60px; height: 55px" /></a>
 
@@ -53,7 +53,7 @@
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Kira-Legacy.Kira-Legacy" alt="visitors">
 <br>
-<a width="100%" href="https://www.github.com/Kira-Legacy"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira-Legacy&bg_color=141321&color=fe428e&line=6da0a1&point=ae81ff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kira-Legacy"/></a>
+<a width="100%" href="https://www.github.com/Kira-Legacy" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Kira-Legacy&bg_color=141321&color=fe428e&line=6da0a1&point=ae81ff&area_color=ae81ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph for Kira-Legacy"/></a>
   
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
@@ -66,10 +66,10 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app?username=Kira-Legacy&theme=radical) </div>
 
 <div width="100%" align="center"><p style ="color: fe428e">Top Repositories</p>
-<a href="https://github.com/Kira-Legacy/Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Portfolio&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-<a href="https://github.com/Kira-Legacy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=CV&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-<a href="https://github.com/Kira-Legacy" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
-<a href = "Tic-Tac-Toe-Web-Application" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Tic-Tac-Toe-Web-Application&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
+<a href="https://github.com/Kira-Legacy/Portfolio" align="left" target="_blank"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Portfolio&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
+<a href="https://github.com/Kira-Legacy" align="right" target="_blank"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=CV&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
+<a href="https://github.com/Kira-Legacy" align="left" target="_blank"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Scientific_Calculator&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
+<a href = "Tic-Tac-Toe-Web-Application" align="right" target="_blank"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kira-Legacy&repo=Tic-Tac-Toe-Web-Application&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en"/></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kira-Legacy&theme=radical)](https://git.io/streak-stats)</div>
 
@@ -77,7 +77,7 @@
 # 🙏🏾 Support 
 
 <div align="center"> 
-<a href="https://buymeacoffee.com/kiralegacy">
+<a href="https://buymeacoffee.com/kiralegacy" target="_blank">
   <img src="https://github.com/Kira-Legacy/Image_Repo/blob/main/Buy%20me%20a%20coffee.jpg?raw=true" alt="Buy me a coffee" style="width: 70%; height: 600px; border: none; display:block;">
   <br>
   <p>Buy me a coffee</p>
