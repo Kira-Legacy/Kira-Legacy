@@ -13,7 +13,7 @@
 - I would also love it if you invite me to typing competitions. 🤼🤼
 - ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
 - 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. Please don't mind if you see silly codes all over my GitHub, <br> 🤚🏾 or I discuss with you on very basic issues. <br> 🤞🏾 I am trying my very best everyday, to be better than my yesterday." 🍀
-
+- 
 <div align = "center">
   <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px">
 </div>
@@ -59,7 +59,6 @@
 ![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kira-Legacy&theme=radical&hide_border=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kira-Legacy&theme=radical)
-
 </div>
 
 <div align="center" style="width: 100%; display: flex; flex-direction: row; gap: 5px;"><a align= "center" href="https://github.com/Kira-Legacy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kira-Legacy&langs_count=10&title_color=fe428e&text_color=a9fef7&icon_color=0891b2&bg_color=141321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
