@@ -15,7 +15,7 @@
 - 🗣 Lastly I would like to say "I am a very junior person in the tech-industry. Please don't mind if you see silly codes all over my GitHub, <br> 🤚🏾 or I discuss with you on very basic issues. <br> 🤞🏾 I am trying my very best everyday, to be better than my yesterday." 🍀
 
 <div align = "center">
-  <img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px">
+  <a href="https://t.me/KiraFix_tech"><img src = "https://github.com/Kira-Legacy/Image_Repo/blob/main/Coder%20matrix.gif" alt="Coding" width="100%" height="500px"></a>
 </div>
 <br>
 <div align = "center">
