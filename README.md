@@ -8,7 +8,7 @@
 - ✨ I am based in Addis Ababa, Ethiopia.
 - 🌱 Currently learning Mongodb.
 - 💞️ Looking to collaborate on web development.
-- 🤝🏾 I am available for collaborations. Check out our community:- <a href = "https://t.me/KiraFix_tech">KiraFix_tech</a> 
+- 🤝🏾 I am available for collaborations. Check out our community 💁🏾‍♂️ <a href = "https://t.me/KiraFix_tech">KiraFix_tech</a> 
 - 💻 Currently spending time on computers to improve my skills as a developer.
 - I would also love it if you invite me to typing competitions. 🤼🤼
 - ⚡️ Fun fact about me 😁: I am very much into the military world.🎖
